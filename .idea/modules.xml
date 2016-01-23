@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Job1Mapper/Job1Mapper.iml" filepath="$PROJECT_DIR$/Job1Mapper/Job1Mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Job1Reducer/Job1Reducer.iml" filepath="$PROJECT_DIR$/Job1Reducer/Job1Reducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Job2Mapper/Job2Mapper.iml" filepath="$PROJECT_DIR$/Job2Mapper/Job2Mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Job2Reducer/Job2Reducer.iml" filepath="$PROJECT_DIR$/Job2Reducer/Job2Reducer.iml" />
+    </modules>
+  </component>
+</project>
